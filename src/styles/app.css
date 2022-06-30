@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Press+Start+2P&display=swap');
+
+html,
+body {
+  margin: 0 auto;
+  max-width: 360px;
+}
+
+.title {
+  background-color: black;
+  color: white;
+  padding: 1.5em;
+  font-size: 1.3em;
+  font-family: 'Press Start 2P';
+  text-align: center;
+}
+
+.text-indicator {
+  background-color: rgb(33, 33, 33);
+  color: white;
+  padding: 1.5em;
+  font-size: 1.2em;
+  text-align: center;
+  font-family: 'Comfortaa';
+  margin-bottom: 2em;
+}
+
+.board {
+  background-color: black;
+}
+
+.row {
+  text-align: center;
+}
+
+.button {
+  padding: 2em;
+  margin: 0.3em;
+  font-family: 'Press Start 2P';
+}
+
+.actions {
+  background-color: rgb(33, 33, 33);
+  padding: 1em;
+  text-align: center;
+  margin-top: 2em;
+}
